@@ -1,27 +1,23 @@
-# Excel-End-to-End-dashboard
-End-to-End Excel Superstore Sales Dashboard analyzing 9,994 transactions ($11.4M Sales, 37.8K Qty). Built with Power Query, PivotTables, Slicers &amp; dynamic charts. Shows KPIs, Ship Mode %, Region-wise count, Monthly trend, Top 5 Cities, Category &amp; Segment analysis with interactive Year &amp; Region filters.
-## Features
+# Excel-Superstore-Sales-Dashboard
 
-- Data Cleaning using Power Query
-- Interactive Dashboard
-- KPI Cards
-- Monthly Sales Trend
-- Region-wise Sales Analysis
-- Category Analysis
-- Segment Analysis
-- Top 5 Cities
-- Ship Mode Analysis
-- Year & Region Filters
-- ## Tools Used
+End-to-End Excel Superstore Sales Dashboard analyzing 9,994 transactions ($11.4M Sales, 37.8K Qty). Built with Power Query, PivotTables, Slicers & dynamic charts.
 
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- ## Dataset
+## 📊 Dashboard Preview
+![Dashboard 1](Screenshot%202026-10-03%20134008.png)
+![Dashboard 2](Screenshot%202026-10-03%20134854.png)
 
-- Sample Superstore Dataset
-- 9,994 Orders
-- Sales: $11.4M
-- Quantity: 37.8K
+## 📹 Project Demo Video
+🎥 Full Dashboard Walkthrough:
+👉 [Watch Demo on LinkedIn - Click Here](https://lnkd.in/p/gUsAP8nw)
+
+## 🛠 Tools Used
+- MS Excel | Power Query | PivotTables | Slicers | Charts
+
+## 📈 Key Insights
+- Sales: $11.4M | Qty: 37.8K
+- West Region Highest
+- Technology Top Category
+- Peak: Nov-Dec
+
+## 📁 Files
+- Dashboard Excel File + Screenshots
